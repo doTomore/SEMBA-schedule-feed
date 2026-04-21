@@ -1,0 +1,1540 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SEMBA//Module 1 Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SEMBA Module 1 - Full Schedule
+X-WR-TIMEZONE:Australia/Melbourne
+BEGIN:VTIMEZONE
+TZID:Australia/Melbourne
+X-LIC-LOCATION:Australia/Melbourne
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:AEDT
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:AEST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:welcome-tea-20260418T0915-4db9d99d2a7d@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T091500
+DTEND;TZID=Australia/Melbourne:20260418T094500
+SUMMARY:Welcome Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:special
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Welcome Tea
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:welcome-semba-class-of-2027-developing-your-mindset-session-20260418T09
+ 45-b5e05351220c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T094500
+DTEND;TZID=Australia/Melbourne:20260418T111500
+SUMMARY:Welcome SEMBA Class of 2027 & 'Developing Your Mindset' Session
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:special
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Welcome SEMBA Class of 2027 & 'Developing Your Mindset' Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260418T1115-f3b36eabfb30@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T111500
+DTEND;TZID=Australia/Melbourne:20260418T113000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:orientation-20260418T1130-5cd6d368beb1@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T113000
+DTEND;TZID=Australia/Melbourne:20260418T130000
+SUMMARY:Orientation
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:special
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Orientation
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260418T1300-a0c60bf54b3d@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T130000
+DTEND;TZID=Australia/Melbourne:20260418T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260418T1345-1eaeb3149b2b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T134500
+DTEND;TZID=Australia/Melbourne:20260418T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:leading-with-influence-for-impact-i-20260418T1400-f09338b82e8a@semba-mo
+ dule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T140000
+DTEND;TZID=Australia/Melbourne:20260418T153000
+SUMMARY:Leading with Influence for Impact I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leading with Influence for Impact I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260418T1530-c567ab4b7a0b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T153000
+DTEND;TZID=Australia/Melbourne:20260418T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:leading-with-influence-for-impact-i-20260418T1545-745865d49c80@semba-mo
+ dule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T154500
+DTEND;TZID=Australia/Melbourne:20260418T171500
+SUMMARY:Leading with Influence for Impact I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leading with Influence for Impact I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260418T1715-10ac126d95fa@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T171500
+DTEND;TZID=Australia/Melbourne:20260418T180000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:welcome-dinner-20260418T1800-7b597bbc8ad8@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260418T180000
+DTEND;TZID=Australia/Melbourne:20260418T200000
+SUMMARY:Welcome Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:special
+LOCATION:BHP Dining Room
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Welcome Dinner
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260419T0730-d068eff1aceb@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T073000
+DTEND;TZID=Australia/Melbourne:20260419T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260419T0830-64bc038b0c54@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T083000
+DTEND;TZID=Australia/Melbourne:20260419T100000
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260419T1000-409db79b1bb7@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T100000
+DTEND;TZID=Australia/Melbourne:20260419T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260419T1015-08c0895f34c3@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T101500
+DTEND;TZID=Australia/Melbourne:20260419T114500
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260419T1145-f6650dbe6560@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T114500
+DTEND;TZID=Australia/Melbourne:20260419T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260419T1300-b5d2f34b0887@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T130000
+DTEND;TZID=Australia/Melbourne:20260419T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260419T1345-c7776f1848b4@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T134500
+DTEND;TZID=Australia/Melbourne:20260419T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260419T1400-10875030e742@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T140000
+DTEND;TZID=Australia/Melbourne:20260419T153000
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260419T1530-1f044860a830@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T153000
+DTEND;TZID=Australia/Melbourne:20260419T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260419T1545-76198c6fb8cc@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T154500
+DTEND;TZID=Australia/Melbourne:20260419T171500
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260419T1730-c121eadc5498@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T173000
+DTEND;TZID=Australia/Melbourne:20260419T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260419T1900-15784a6011fd@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T190000
+DTEND;TZID=Australia/Melbourne:20260419T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260419T2000-ad3cbbf08d97@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260419T200000
+DTEND;TZID=Australia/Melbourne:20260419T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260420T0730-4971a0459871@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T073000
+DTEND;TZID=Australia/Melbourne:20260420T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260420T0830-2976d4761fd2@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T083000
+DTEND;TZID=Australia/Melbourne:20260420T100000
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260420T1000-444d21438306@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T100000
+DTEND;TZID=Australia/Melbourne:20260420T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260420T1015-2337bace5512@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T101500
+DTEND;TZID=Australia/Melbourne:20260420T114500
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260420T1145-2418f4197584@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T114500
+DTEND;TZID=Australia/Melbourne:20260420T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260420T1300-15402fb66d87@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T130000
+DTEND;TZID=Australia/Melbourne:20260420T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260420T1345-c504289d63ff@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T134500
+DTEND;TZID=Australia/Melbourne:20260420T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:leading-with-influence-for-impact-i-20260420T1400-3a4f0ae0c32f@semba-mo
+ dule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T140000
+DTEND;TZID=Australia/Melbourne:20260420T153000
+SUMMARY:Leading with Influence for Impact I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leading with Influence for Impact I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260420T1530-1717a34416a9@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T153000
+DTEND;TZID=Australia/Melbourne:20260420T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:leading-with-influence-for-impact-i-20260420T1545-a38ec5a9b070@semba-mo
+ dule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T154500
+DTEND;TZID=Australia/Melbourne:20260420T171500
+SUMMARY:Leading with Influence for Impact I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leading with Influence for Impact I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260420T1730-c8956efe1109@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T173000
+DTEND;TZID=Australia/Melbourne:20260420T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260420T1900-3a65b5c70d94@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T190000
+DTEND;TZID=Australia/Melbourne:20260420T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260420T2000-6a5f1852565c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260420T200000
+DTEND;TZID=Australia/Melbourne:20260420T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260421T0730-2ebb809815a2@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T073000
+DTEND;TZID=Australia/Melbourne:20260421T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260421T0830-a087f9b6cd4e@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T083000
+DTEND;TZID=Australia/Melbourne:20260421T100000
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+LOCATION:Mawby Lecture Theatre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260421T1000-c8d6b8d02484@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T100000
+DTEND;TZID=Australia/Melbourne:20260421T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260421T1015-85092cb5bd84@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T101500
+DTEND;TZID=Australia/Melbourne:20260421T114500
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+LOCATION:Mawby Lecture Theatre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260421T1145-5b13c34127c4@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T114500
+DTEND;TZID=Australia/Melbourne:20260421T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260421T1300-ee3b8dd51b0f@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T130000
+DTEND;TZID=Australia/Melbourne:20260421T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260421T1345-2e1f8b4949db@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T134500
+DTEND;TZID=Australia/Melbourne:20260421T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260421T1400-e6c52aed724f@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T140000
+DTEND;TZID=Australia/Melbourne:20260421T153000
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+LOCATION:Mawby Lecture Theatre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260421T1530-9499e683ffd4@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T153000
+DTEND;TZID=Australia/Melbourne:20260421T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260421T1545-c6bb93e35c87@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T154500
+DTEND;TZID=Australia/Melbourne:20260421T171500
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+LOCATION:Mawby Lecture Theatre
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260421T1730-903c9fb6f043@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T173000
+DTEND;TZID=Australia/Melbourne:20260421T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260421T1900-fd53c251876b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T190000
+DTEND;TZID=Australia/Melbourne:20260421T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260421T2000-fddd6ff83ddd@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260421T200000
+DTEND;TZID=Australia/Melbourne:20260421T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260422T0730-0e47ec87c5d0@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T073000
+DTEND;TZID=Australia/Melbourne:20260422T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260422T0830-2dc45827bb87@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T083000
+DTEND;TZID=Australia/Melbourne:20260422T100000
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260422T1000-b22de5f33e91@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T100000
+DTEND;TZID=Australia/Melbourne:20260422T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260422T1015-8c643eba7fff@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T101500
+DTEND;TZID=Australia/Melbourne:20260422T114500
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260422T1145-98b1e65c1039@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T114500
+DTEND;TZID=Australia/Melbourne:20260422T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260422T1300-6d516d66fc73@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T130000
+DTEND;TZID=Australia/Melbourne:20260422T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260422T1345-429a6ae2f12c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T134500
+DTEND;TZID=Australia/Melbourne:20260422T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:leading-with-influence-for-impact-i-20260422T1400-a0cccbc9f842@semba-mo
+ dule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T140000
+DTEND;TZID=Australia/Melbourne:20260422T153000
+SUMMARY:Leading with Influence for Impact I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leading with Influence for Impact I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260422T1530-ba3d1e373c2b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T153000
+DTEND;TZID=Australia/Melbourne:20260422T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:senior-executive-project-i-20260422T1545-eb45bccee632@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T154500
+DTEND;TZID=Australia/Melbourne:20260422T171500
+SUMMARY:Senior Executive Project I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senior Executive Project I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260422T1730-76e53dc885dc@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T173000
+DTEND;TZID=Australia/Melbourne:20260422T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260422T1900-42e20016dfe3@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T190000
+DTEND;TZID=Australia/Melbourne:20260422T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260422T2000-25b46844468d@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260422T200000
+DTEND;TZID=Australia/Melbourne:20260422T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260423T0730-12d71416a5da@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T073000
+DTEND;TZID=Australia/Melbourne:20260423T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260423T0830-baafb17d958a@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T083000
+DTEND;TZID=Australia/Melbourne:20260423T100000
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260423T1000-61c789d70be7@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T100000
+DTEND;TZID=Australia/Melbourne:20260423T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260423T1015-7db2d3774dd6@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T101500
+DTEND;TZID=Australia/Melbourne:20260423T114500
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260423T1145-ccf98a7fb64d@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T114500
+DTEND;TZID=Australia/Melbourne:20260423T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260423T1300-7320bc8a72cf@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T130000
+DTEND;TZID=Australia/Melbourne:20260423T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260423T1345-85b7e006179c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T134500
+DTEND;TZID=Australia/Melbourne:20260423T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:senior-executive-project-i-20260423T1400-0abe6e04196c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T140000
+DTEND;TZID=Australia/Melbourne:20260423T153000
+SUMMARY:Senior Executive Project I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senior Executive Project I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260423T1530-1dfd484172a6@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T153000
+DTEND;TZID=Australia/Melbourne:20260423T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:senior-executive-project-i-20260423T1545-5a1d389fa398@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T154500
+DTEND;TZID=Australia/Melbourne:20260423T171500
+SUMMARY:Senior Executive Project I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senior Executive Project I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:damien-gance-presentation-fireside-20260423T1800-8115617d099b@semba-mod
+ ule1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T180000
+DTEND;TZID=Australia/Melbourne:20260423T190000
+SUMMARY:Damien Gance Presentation & Fireside
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:special
+LOCATION:LT1
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Damien Gance Presentation & Fireside
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260423T1900-2be89a75d6dc@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T190000
+DTEND;TZID=Australia/Melbourne:20260423T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260423T2000-1ec810e2a23e@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260423T200000
+DTEND;TZID=Australia/Melbourne:20260423T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260424T0730-d3212160627f@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T073000
+DTEND;TZID=Australia/Melbourne:20260424T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:due-data-driven-decision-making-assignment-1-syndicate-assignment-20260
+ 424T0830-0a0d254407d5@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T083000
+DTEND;TZID=Australia/Melbourne:20260424T084500
+SUMMARY:Due: Data Driven Decision-Making Assignment 1 - Syndicate assignmen
+ t
+DESCRIPTION:Canvas assessment due date: 2026-04-24 8:30am VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Data Driven Decision-Making Assignment 1 - Syndicate assig
+ nment
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Data Driven Decision-Making Assignment 1 - Syndicate assig
+ nment
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260424T0830-defeb0899be5@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T083000
+DTEND;TZID=Australia/Melbourne:20260424T100000
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260424T1000-8da7fd55e6c7@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T100000
+DTEND;TZID=Australia/Melbourne:20260424T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260424T1015-6b528ad10de7@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T101500
+DTEND;TZID=Australia/Melbourne:20260424T114500
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260424T1145-18acbec40a30@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T114500
+DTEND;TZID=Australia/Melbourne:20260424T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260424T1300-32b9d88ed964@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T130000
+DTEND;TZID=Australia/Melbourne:20260424T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260424T1345-ebd8c655f80f@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T134500
+DTEND;TZID=Australia/Melbourne:20260424T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260424T1400-5bb839308c1e@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T140000
+DTEND;TZID=Australia/Melbourne:20260424T153000
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260424T1530-356bb5795c78@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T153000
+DTEND;TZID=Australia/Melbourne:20260424T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:managerial-judgement-20260424T1545-cc25a4818dc2@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T154500
+DTEND;TZID=Australia/Melbourne:20260424T171500
+SUMMARY:Managerial Judgement
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Managerial Judgement
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260424T1730-e13e21373214@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T173000
+DTEND;TZID=Australia/Melbourne:20260424T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260424T1900-dcbe2c3788cc@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T190000
+DTEND;TZID=Australia/Melbourne:20260424T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260424T2000-82c92d3cf53b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260424T200000
+DTEND;TZID=Australia/Melbourne:20260424T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:breakfast-20260425T0730-c0f7018c688f@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T073000
+DTEND;TZID=Australia/Melbourne:20260425T083000
+SUMMARY:Breakfast
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:senior-executive-project-i-20260425T0830-58b9841a77fa@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T083000
+DTEND;TZID=Australia/Melbourne:20260425T100000
+SUMMARY:Senior Executive Project I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senior Executive Project I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260425T1000-71f6efab4bd1@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T100000
+DTEND;TZID=Australia/Melbourne:20260425T101500
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:senior-executive-project-i-20260425T1015-55ca66bb0217@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T101500
+DTEND;TZID=Australia/Melbourne:20260425T114500
+SUMMARY:Senior Executive Project I
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Senior Executive Project I
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260425T1145-7e6936517350@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T114500
+DTEND;TZID=Australia/Melbourne:20260425T130000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260425T1300-3ecc9e4c6d2b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T130000
+DTEND;TZID=Australia/Melbourne:20260425T134500
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:break-20260425T1345-ba4f27726841@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T134500
+DTEND;TZID=Australia/Melbourne:20260425T140000
+SUMMARY:Break
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260425T1400-1cbcbad0d318@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T140000
+DTEND;TZID=Australia/Melbourne:20260425T153000
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260425T1530-1e656a9b47f5@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T153000
+DTEND;TZID=Australia/Melbourne:20260425T154500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-20260425T1545-d4c4b899822a@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T154500
+DTEND;TZID=Australia/Melbourne:20260425T171500
+SUMMARY:Data Driven Decision-Making
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:teaching
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260425T1730-90be84a09e36@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T173000
+DTEND;TZID=Australia/Melbourne:20260425T190000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:dinner-20260425T1900-d04c0727c1b6@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T190000
+DTEND;TZID=Australia/Melbourne:20260425T200000
+SUMMARY:Dinner
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:syndicate-private-study-20260425T2000-4910eafc8d0b@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260425T200000
+DTEND;TZID=Australia/Melbourne:20260425T220000
+SUMMARY:Syndicate/Private Study
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:study
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-oral-assessments-20260426T0830-000010c698a4
+ @semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T083000
+DTEND;TZID=Australia/Melbourne:20260426T104000
+SUMMARY:Data Driven Decision-Making Oral Assessments
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:oral
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making Oral Assessments
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:morning-tea-20260426T1040-d0c6d1b62b95@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T104000
+DTEND;TZID=Australia/Melbourne:20260426T110000
+SUMMARY:Morning Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-oral-assessments-20260426T1100-8f2e81eb13a0
+ @semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T110000
+DTEND;TZID=Australia/Melbourne:20260426T121500
+SUMMARY:Data Driven Decision-Making Oral Assessments
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:oral
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making Oral Assessments
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20260426T1215-76db2ab41167@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T121500
+DTEND;TZID=Australia/Melbourne:20260426T130000
+SUMMARY:Lunch
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:meal
+LOCATION:BHP Dining Room
+END:VEVENT
+BEGIN:VEVENT
+UID:data-driven-decision-making-oral-assessments-20260426T1300-4cd2b6cdd2f1
+ @semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T130000
+DTEND;TZID=Australia/Melbourne:20260426T150000
+SUMMARY:Data Driven Decision-Making Oral Assessments
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:oral
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Data Driven Decision-Making Oral Assessments
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:afternoon-tea-20260426T1500-b1430398f559@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T150000
+DTEND;TZID=Australia/Melbourne:20260426T151500
+SUMMARY:Afternoon Tea
+DESCRIPTION:Source: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked a
+ gainst the Module 1 subject overview and assessment pages.
+CATEGORIES:break
+END:VEVENT
+BEGIN:VEVENT
+UID:due-data-driven-decision-making-assignment-2-15-minute-interactive-oral
+ -exam-20260426T1700-5d31c5196f74@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T170000
+DTEND;TZID=Australia/Melbourne:20260426T171500
+SUMMARY:Due: Data Driven Decision-Making Assignment 2 - 15 minute interacti
+ ve oral exam
+DESCRIPTION:Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Data Driven Decision-Making Assignment 2 - 15 minute inter
+ active oral exam
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Data Driven Decision-Making Assignment 2 - 15 minute inter
+ active oral exam
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-leading-with-influence-for-impact-i-assignment-1-contribution-to-le
+ arning-20260426T1700-0a7e355e78b8@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T170000
+DTEND;TZID=Australia/Melbourne:20260426T171500
+SUMMARY:Due: Leading with Influence for Impact I Assignment 1 - Contributio
+ n to learning
+DESCRIPTION:Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Leading with Influence for Impact I Assignment 1 - Contrib
+ ution to learning
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Leading with Influence for Impact I Assignment 1 - Contrib
+ ution to learning
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-senior-executive-project-i-assignment-1-contribution-to-class-learn
+ ing-20260426T1700-0dce2caeae2c@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T170000
+DTEND;TZID=Australia/Melbourne:20260426T171500
+SUMMARY:Due: Senior Executive Project I Assignment 1 - Contribution to clas
+ s learning
+DESCRIPTION:Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Senior Executive Project I Assignment 1 - Contribution to 
+ class learning
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Senior Executive Project I Assignment 1 - Contribution to 
+ class learning
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-leading-with-influence-for-impact-i-assignment-2-individual-assignm
+ ent-20260426T2100-22383af1469e@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T210000
+DTEND;TZID=Australia/Melbourne:20260426T211500
+SUMMARY:Due: Leading with Influence for Impact I Assignment 2 - Individual 
+ assignment
+DESCRIPTION:Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Leading with Influence for Impact I Assignment 2 - Individ
+ ual assignment
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Leading with Influence for Impact I Assignment 2 - Individ
+ ual assignment
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-managerial-judgement-assignment-1-contribution-to-class-learning-20
+ 260426T2100-02cf880dd3d0@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T210000
+DTEND;TZID=Australia/Melbourne:20260426T211500
+SUMMARY:Due: Managerial Judgement Assignment 1 - Contribution to class lear
+ ning
+DESCRIPTION:Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Managerial Judgement Assignment 1 - Contribution to class 
+ learning
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Managerial Judgement Assignment 1 - Contribution to class 
+ learning
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-managerial-judgement-assignment-2-individual-assignment-20260426T21
+ 00-a07dce9b4eaf@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T210000
+DTEND;TZID=Australia/Melbourne:20260426T211500
+SUMMARY:Due: Managerial Judgement Assignment 2 - Individual assignment
+DESCRIPTION:Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSour
+ ce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Modu
+ le 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Managerial Judgement Assignment 2 - Individual assignment
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Managerial Judgement Assignment 2 - Individual assignment
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:due-senior-executive-project-i-assignment-2-individual-reflection-20260
+ 426T2359-a39622bc5a1a@semba-module1
+DTSTAMP:20260420T235015Z
+DTSTART;TZID=Australia/Melbourne:20260426T235900
+DTEND;TZID=Australia/Melbourne:20260427T001400
+SUMMARY:Due: Senior Executive Project I Assignment 2 - Individual reflectio
+ n
+DESCRIPTION:Canvas assessment due date: 2026-04-26 11:59pm VIC time.\n\nSou
+ rce: Modules/Module 1/S27 M1 Timetable.pdf\, cross-checked against the Mod
+ ule 1 subject overview and assessment pages.
+CATEGORIES:deadline
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Senior Executive Project I Assignment 2 - Individual refle
+ ction
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Due: Senior Executive Project I Assignment 2 - Individual refle
+ ction
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,4218 @@
+{
+  "schemaVersion": 1,
+  "name": "SEMBA Module 1 - Full Schedule",
+  "timezone": "Australia/Melbourne",
+  "generatedAt": "2026-04-20T23:50:15.606827+00:00",
+  "source": {
+    "primary": "Modules/Module 1/S27 M1 Timetable.pdf",
+    "crossCheckedAgainst": [
+      "Module 1 subject overview pages",
+      "Module 1 assessment pages"
+    ]
+  },
+  "colorGroups": {
+    "managerial-judgement": {
+      "label": "Managerial Judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff"
+    },
+    "data-driven-decision-making": {
+      "label": "Data Driven Decision-Making",
+      "color": "#002060",
+      "textColor": "#ffffff"
+    },
+    "leading-with-influence": {
+      "label": "Leading with Influence for Impact I",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff"
+    },
+    "senior-executive-project": {
+      "label": "Senior Executive Project I",
+      "color": "#70003d",
+      "textColor": "#ffffff"
+    },
+    "program": {
+      "label": "Program / Orientation",
+      "color": "#b8a25a",
+      "textColor": "#111111"
+    },
+    "logistics": {
+      "label": "Meals / Breaks",
+      "color": "#d9d9d9",
+      "textColor": "#111111"
+    },
+    "study": {
+      "label": "Syndicate / Private Study",
+      "color": "#ffffff",
+      "textColor": "#111111"
+    },
+    "deadline": {
+      "label": "Deadlines",
+      "color": "#d64545",
+      "textColor": "#ffffff"
+    }
+  },
+  "events": [
+    {
+      "id": "welcome-tea-20260418T0915-4db9d99d2a7d",
+      "uid": "welcome-tea-20260418T0915-4db9d99d2a7d@semba-module1",
+      "title": "Welcome Tea",
+      "start": "2026-04-18T09:15:00+10:00",
+      "end": "2026-04-18T09:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "welcome",
+      "subject": null,
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "program",
+        "welcome",
+        "core"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "welcome-semba-class-of-2027-developing-your-mindset-session-20260418T0945-b5e05351220c",
+      "uid": "welcome-semba-class-of-2027-developing-your-mindset-session-20260418T0945-b5e05351220c@semba-module1",
+      "title": "Welcome SEMBA Class of 2027 & 'Developing Your Mindset' Session",
+      "start": "2026-04-18T09:45:00+10:00",
+      "end": "2026-04-18T11:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "welcome",
+      "subject": null,
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "program",
+        "welcome",
+        "core"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260418T1115-f3b36eabfb30",
+      "uid": "break-20260418T1115-f3b36eabfb30@semba-module1",
+      "title": "Break",
+      "start": "2026-04-18T11:15:00+10:00",
+      "end": "2026-04-18T11:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "orientation-20260418T1130-5cd6d368beb1",
+      "uid": "orientation-20260418T1130-5cd6d368beb1@semba-module1",
+      "title": "Orientation",
+      "start": "2026-04-18T11:30:00+10:00",
+      "end": "2026-04-18T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "orientation",
+      "subject": null,
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "program",
+        "orientation",
+        "core"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260418T1300-a0c60bf54b3d",
+      "uid": "lunch-20260418T1300-a0c60bf54b3d@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-18T13:00:00+10:00",
+      "end": "2026-04-18T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260418T1345-1eaeb3149b2b",
+      "uid": "break-20260418T1345-1eaeb3149b2b@semba-module1",
+      "title": "Break",
+      "start": "2026-04-18T13:45:00+10:00",
+      "end": "2026-04-18T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "leading-with-influence-for-impact-i-20260418T1400-f09338b82e8a",
+      "uid": "leading-with-influence-for-impact-i-20260418T1400-f09338b82e8a@semba-module1",
+      "title": "Leading with Influence for Impact I",
+      "start": "2026-04-18T14:00:00+10:00",
+      "end": "2026-04-18T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "leading-with-influence",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260418T1530-c567ab4b7a0b",
+      "uid": "afternoon-tea-20260418T1530-c567ab4b7a0b@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-18T15:30:00+10:00",
+      "end": "2026-04-18T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "leading-with-influence-for-impact-i-20260418T1545-745865d49c80",
+      "uid": "leading-with-influence-for-impact-i-20260418T1545-745865d49c80@semba-module1",
+      "title": "Leading with Influence for Impact I",
+      "start": "2026-04-18T15:45:00+10:00",
+      "end": "2026-04-18T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "leading-with-influence",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260418T1715-10ac126d95fa",
+      "uid": "break-20260418T1715-10ac126d95fa@semba-module1",
+      "title": "Break",
+      "start": "2026-04-18T17:15:00+10:00",
+      "end": "2026-04-18T18:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "welcome-dinner-20260418T1800-7b597bbc8ad8",
+      "uid": "welcome-dinner-20260418T1800-7b597bbc8ad8@semba-module1",
+      "title": "Welcome Dinner",
+      "start": "2026-04-18T18:00:00+10:00",
+      "end": "2026-04-18T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "social",
+      "subject": null,
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "program",
+        "social",
+        "core"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "exactOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260419T0730-d068eff1aceb",
+      "uid": "breakfast-20260419T0730-d068eff1aceb@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-19T07:30:00+10:00",
+      "end": "2026-04-19T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260419T0830-64bc038b0c54",
+      "uid": "managerial-judgement-20260419T0830-64bc038b0c54@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-19T08:30:00+10:00",
+      "end": "2026-04-19T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260419T1000-409db79b1bb7",
+      "uid": "morning-tea-20260419T1000-409db79b1bb7@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-19T10:00:00+10:00",
+      "end": "2026-04-19T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260419T1015-08c0895f34c3",
+      "uid": "managerial-judgement-20260419T1015-08c0895f34c3@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-19T10:15:00+10:00",
+      "end": "2026-04-19T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260419T1145-f6650dbe6560",
+      "uid": "syndicate-private-study-20260419T1145-f6650dbe6560@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-19T11:45:00+10:00",
+      "end": "2026-04-19T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260419T1300-b5d2f34b0887",
+      "uid": "lunch-20260419T1300-b5d2f34b0887@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-19T13:00:00+10:00",
+      "end": "2026-04-19T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260419T1345-c7776f1848b4",
+      "uid": "break-20260419T1345-c7776f1848b4@semba-module1",
+      "title": "Break",
+      "start": "2026-04-19T13:45:00+10:00",
+      "end": "2026-04-19T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260419T1400-10875030e742",
+      "uid": "data-driven-decision-making-20260419T1400-10875030e742@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-19T14:00:00+10:00",
+      "end": "2026-04-19T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260419T1530-1f044860a830",
+      "uid": "afternoon-tea-20260419T1530-1f044860a830@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-19T15:30:00+10:00",
+      "end": "2026-04-19T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260419T1545-76198c6fb8cc",
+      "uid": "data-driven-decision-making-20260419T1545-76198c6fb8cc@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-19T15:45:00+10:00",
+      "end": "2026-04-19T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260419T1730-c121eadc5498",
+      "uid": "syndicate-private-study-20260419T1730-c121eadc5498@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-19T17:30:00+10:00",
+      "end": "2026-04-19T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260419T1900-15784a6011fd",
+      "uid": "dinner-20260419T1900-15784a6011fd@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-19T19:00:00+10:00",
+      "end": "2026-04-19T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260419T2000-ad3cbbf08d97",
+      "uid": "syndicate-private-study-20260419T2000-ad3cbbf08d97@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-19T20:00:00+10:00",
+      "end": "2026-04-19T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260420T0730-4971a0459871",
+      "uid": "breakfast-20260420T0730-4971a0459871@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-20T07:30:00+10:00",
+      "end": "2026-04-20T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260420T0830-2976d4761fd2",
+      "uid": "data-driven-decision-making-20260420T0830-2976d4761fd2@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-20T08:30:00+10:00",
+      "end": "2026-04-20T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260420T1000-444d21438306",
+      "uid": "morning-tea-20260420T1000-444d21438306@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-20T10:00:00+10:00",
+      "end": "2026-04-20T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260420T1015-2337bace5512",
+      "uid": "data-driven-decision-making-20260420T1015-2337bace5512@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-20T10:15:00+10:00",
+      "end": "2026-04-20T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260420T1145-2418f4197584",
+      "uid": "syndicate-private-study-20260420T1145-2418f4197584@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-20T11:45:00+10:00",
+      "end": "2026-04-20T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260420T1300-15402fb66d87",
+      "uid": "lunch-20260420T1300-15402fb66d87@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-20T13:00:00+10:00",
+      "end": "2026-04-20T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260420T1345-c504289d63ff",
+      "uid": "break-20260420T1345-c504289d63ff@semba-module1",
+      "title": "Break",
+      "start": "2026-04-20T13:45:00+10:00",
+      "end": "2026-04-20T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "leading-with-influence-for-impact-i-20260420T1400-3a4f0ae0c32f",
+      "uid": "leading-with-influence-for-impact-i-20260420T1400-3a4f0ae0c32f@semba-module1",
+      "title": "Leading with Influence for Impact I",
+      "start": "2026-04-20T14:00:00+10:00",
+      "end": "2026-04-20T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "leading-with-influence",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260420T1530-1717a34416a9",
+      "uid": "afternoon-tea-20260420T1530-1717a34416a9@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-20T15:30:00+10:00",
+      "end": "2026-04-20T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "leading-with-influence-for-impact-i-20260420T1545-a38ec5a9b070",
+      "uid": "leading-with-influence-for-impact-i-20260420T1545-a38ec5a9b070@semba-module1",
+      "title": "Leading with Influence for Impact I",
+      "start": "2026-04-20T15:45:00+10:00",
+      "end": "2026-04-20T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "leading-with-influence",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260420T1730-c8956efe1109",
+      "uid": "syndicate-private-study-20260420T1730-c8956efe1109@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-20T17:30:00+10:00",
+      "end": "2026-04-20T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260420T1900-3a65b5c70d94",
+      "uid": "dinner-20260420T1900-3a65b5c70d94@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-20T19:00:00+10:00",
+      "end": "2026-04-20T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260420T2000-6a5f1852565c",
+      "uid": "syndicate-private-study-20260420T2000-6a5f1852565c@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-20T20:00:00+10:00",
+      "end": "2026-04-20T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260421T0730-2ebb809815a2",
+      "uid": "breakfast-20260421T0730-2ebb809815a2@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-21T07:30:00+10:00",
+      "end": "2026-04-21T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260421T0830-a087f9b6cd4e",
+      "uid": "data-driven-decision-making-20260421T0830-a087f9b6cd4e@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-21T08:30:00+10:00",
+      "end": "2026-04-21T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": "Mawby Lecture Theatre",
+      "locationSource": "exactOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260421T1000-c8d6b8d02484",
+      "uid": "morning-tea-20260421T1000-c8d6b8d02484@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-21T10:00:00+10:00",
+      "end": "2026-04-21T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260421T1015-85092cb5bd84",
+      "uid": "data-driven-decision-making-20260421T1015-85092cb5bd84@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-21T10:15:00+10:00",
+      "end": "2026-04-21T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": "Mawby Lecture Theatre",
+      "locationSource": "exactOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260421T1145-5b13c34127c4",
+      "uid": "syndicate-private-study-20260421T1145-5b13c34127c4@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-21T11:45:00+10:00",
+      "end": "2026-04-21T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260421T1300-ee3b8dd51b0f",
+      "uid": "lunch-20260421T1300-ee3b8dd51b0f@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-21T13:00:00+10:00",
+      "end": "2026-04-21T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260421T1345-2e1f8b4949db",
+      "uid": "break-20260421T1345-2e1f8b4949db@semba-module1",
+      "title": "Break",
+      "start": "2026-04-21T13:45:00+10:00",
+      "end": "2026-04-21T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260421T1400-e6c52aed724f",
+      "uid": "managerial-judgement-20260421T1400-e6c52aed724f@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-21T14:00:00+10:00",
+      "end": "2026-04-21T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": "Mawby Lecture Theatre",
+      "locationSource": "exactOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260421T1530-9499e683ffd4",
+      "uid": "afternoon-tea-20260421T1530-9499e683ffd4@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-21T15:30:00+10:00",
+      "end": "2026-04-21T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260421T1545-c6bb93e35c87",
+      "uid": "managerial-judgement-20260421T1545-c6bb93e35c87@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-21T15:45:00+10:00",
+      "end": "2026-04-21T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": "Mawby Lecture Theatre",
+      "locationSource": "exactOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260421T1730-903c9fb6f043",
+      "uid": "syndicate-private-study-20260421T1730-903c9fb6f043@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-21T17:30:00+10:00",
+      "end": "2026-04-21T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260421T1900-fd53c251876b",
+      "uid": "dinner-20260421T1900-fd53c251876b@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-21T19:00:00+10:00",
+      "end": "2026-04-21T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260421T2000-fddd6ff83ddd",
+      "uid": "syndicate-private-study-20260421T2000-fddd6ff83ddd@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-21T20:00:00+10:00",
+      "end": "2026-04-21T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260422T0730-0e47ec87c5d0",
+      "uid": "breakfast-20260422T0730-0e47ec87c5d0@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-22T07:30:00+10:00",
+      "end": "2026-04-22T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260422T0830-2dc45827bb87",
+      "uid": "managerial-judgement-20260422T0830-2dc45827bb87@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-22T08:30:00+10:00",
+      "end": "2026-04-22T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260422T1000-b22de5f33e91",
+      "uid": "morning-tea-20260422T1000-b22de5f33e91@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-22T10:00:00+10:00",
+      "end": "2026-04-22T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260422T1015-8c643eba7fff",
+      "uid": "managerial-judgement-20260422T1015-8c643eba7fff@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-22T10:15:00+10:00",
+      "end": "2026-04-22T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260422T1145-98b1e65c1039",
+      "uid": "syndicate-private-study-20260422T1145-98b1e65c1039@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-22T11:45:00+10:00",
+      "end": "2026-04-22T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260422T1300-6d516d66fc73",
+      "uid": "lunch-20260422T1300-6d516d66fc73@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-22T13:00:00+10:00",
+      "end": "2026-04-22T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260422T1345-429a6ae2f12c",
+      "uid": "break-20260422T1345-429a6ae2f12c@semba-module1",
+      "title": "Break",
+      "start": "2026-04-22T13:45:00+10:00",
+      "end": "2026-04-22T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "leading-with-influence-for-impact-i-20260422T1400-a0cccbc9f842",
+      "uid": "leading-with-influence-for-impact-i-20260422T1400-a0cccbc9f842@semba-module1",
+      "title": "Leading with Influence for Impact I",
+      "start": "2026-04-22T14:00:00+10:00",
+      "end": "2026-04-22T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "leading-with-influence",
+      "color": "#3a3a3a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260422T1530-ba3d1e373c2b",
+      "uid": "afternoon-tea-20260422T1530-ba3d1e373c2b@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-22T15:30:00+10:00",
+      "end": "2026-04-22T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "senior-executive-project-i-20260422T1545-eb45bccee632",
+      "uid": "senior-executive-project-i-20260422T1545-eb45bccee632@semba-module1",
+      "title": "Senior Executive Project I",
+      "start": "2026-04-22T15:45:00+10:00",
+      "end": "2026-04-22T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "senior-executive-project",
+      "color": "#70003d",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260422T1730-76e53dc885dc",
+      "uid": "syndicate-private-study-20260422T1730-76e53dc885dc@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-22T17:30:00+10:00",
+      "end": "2026-04-22T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260422T1900-42e20016dfe3",
+      "uid": "dinner-20260422T1900-42e20016dfe3@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-22T19:00:00+10:00",
+      "end": "2026-04-22T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260422T2000-25b46844468d",
+      "uid": "syndicate-private-study-20260422T2000-25b46844468d@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-22T20:00:00+10:00",
+      "end": "2026-04-22T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260423T0730-12d71416a5da",
+      "uid": "breakfast-20260423T0730-12d71416a5da@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-23T07:30:00+10:00",
+      "end": "2026-04-23T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260423T0830-baafb17d958a",
+      "uid": "managerial-judgement-20260423T0830-baafb17d958a@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-23T08:30:00+10:00",
+      "end": "2026-04-23T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260423T1000-61c789d70be7",
+      "uid": "morning-tea-20260423T1000-61c789d70be7@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-23T10:00:00+10:00",
+      "end": "2026-04-23T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260423T1015-7db2d3774dd6",
+      "uid": "managerial-judgement-20260423T1015-7db2d3774dd6@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-23T10:15:00+10:00",
+      "end": "2026-04-23T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260423T1145-ccf98a7fb64d",
+      "uid": "syndicate-private-study-20260423T1145-ccf98a7fb64d@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-23T11:45:00+10:00",
+      "end": "2026-04-23T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260423T1300-7320bc8a72cf",
+      "uid": "lunch-20260423T1300-7320bc8a72cf@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-23T13:00:00+10:00",
+      "end": "2026-04-23T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260423T1345-85b7e006179c",
+      "uid": "break-20260423T1345-85b7e006179c@semba-module1",
+      "title": "Break",
+      "start": "2026-04-23T13:45:00+10:00",
+      "end": "2026-04-23T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "senior-executive-project-i-20260423T1400-0abe6e04196c",
+      "uid": "senior-executive-project-i-20260423T1400-0abe6e04196c@semba-module1",
+      "title": "Senior Executive Project I",
+      "start": "2026-04-23T14:00:00+10:00",
+      "end": "2026-04-23T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "senior-executive-project",
+      "color": "#70003d",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260423T1530-1dfd484172a6",
+      "uid": "afternoon-tea-20260423T1530-1dfd484172a6@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-23T15:30:00+10:00",
+      "end": "2026-04-23T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "senior-executive-project-i-20260423T1545-5a1d389fa398",
+      "uid": "senior-executive-project-i-20260423T1545-5a1d389fa398@semba-module1",
+      "title": "Senior Executive Project I",
+      "start": "2026-04-23T15:45:00+10:00",
+      "end": "2026-04-23T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "senior-executive-project",
+      "color": "#70003d",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "damien-gance-presentation-fireside-20260423T1800-8115617d099b",
+      "uid": "damien-gance-presentation-fireside-20260423T1800-8115617d099b@semba-module1",
+      "title": "Damien Gance Presentation & Fireside",
+      "start": "2026-04-23T18:00:00+10:00",
+      "end": "2026-04-23T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "guest-session",
+      "subject": null,
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "program",
+        "guest-session",
+        "core"
+      ],
+      "location": "LT1",
+      "locationSource": "sourcePDF",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260423T1900-2be89a75d6dc",
+      "uid": "dinner-20260423T1900-2be89a75d6dc@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-23T19:00:00+10:00",
+      "end": "2026-04-23T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260423T2000-1ec810e2a23e",
+      "uid": "syndicate-private-study-20260423T2000-1ec810e2a23e@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-23T20:00:00+10:00",
+      "end": "2026-04-23T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260424T0730-d3212160627f",
+      "uid": "breakfast-20260424T0730-d3212160627f@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-24T07:30:00+10:00",
+      "end": "2026-04-24T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-data-driven-decision-making-assignment-1-syndicate-assignment-20260424T0830-0a0d254407d5",
+      "uid": "due-data-driven-decision-making-assignment-1-syndicate-assignment-20260424T0830-0a0d254407d5@semba-module1",
+      "title": "Due: Data Driven Decision-Making Assignment 1 - Syndicate assignment",
+      "start": "2026-04-24T08:30:00+10:00",
+      "end": "2026-04-24T08:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-24 8:30am VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260424T0830-defeb0899be5",
+      "uid": "data-driven-decision-making-20260424T0830-defeb0899be5@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-24T08:30:00+10:00",
+      "end": "2026-04-24T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260424T1000-8da7fd55e6c7",
+      "uid": "morning-tea-20260424T1000-8da7fd55e6c7@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-24T10:00:00+10:00",
+      "end": "2026-04-24T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260424T1015-6b528ad10de7",
+      "uid": "data-driven-decision-making-20260424T1015-6b528ad10de7@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-24T10:15:00+10:00",
+      "end": "2026-04-24T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260424T1145-18acbec40a30",
+      "uid": "syndicate-private-study-20260424T1145-18acbec40a30@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-24T11:45:00+10:00",
+      "end": "2026-04-24T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260424T1300-32b9d88ed964",
+      "uid": "lunch-20260424T1300-32b9d88ed964@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-24T13:00:00+10:00",
+      "end": "2026-04-24T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260424T1345-ebd8c655f80f",
+      "uid": "break-20260424T1345-ebd8c655f80f@semba-module1",
+      "title": "Break",
+      "start": "2026-04-24T13:45:00+10:00",
+      "end": "2026-04-24T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260424T1400-5bb839308c1e",
+      "uid": "managerial-judgement-20260424T1400-5bb839308c1e@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-24T14:00:00+10:00",
+      "end": "2026-04-24T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260424T1530-356bb5795c78",
+      "uid": "afternoon-tea-20260424T1530-356bb5795c78@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-24T15:30:00+10:00",
+      "end": "2026-04-24T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "managerial-judgement-20260424T1545-cc25a4818dc2",
+      "uid": "managerial-judgement-20260424T1545-cc25a4818dc2@semba-module1",
+      "title": "Managerial Judgement",
+      "start": "2026-04-24T15:45:00+10:00",
+      "end": "2026-04-24T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "managerial-judgement",
+      "color": "#b0005a",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260424T1730-e13e21373214",
+      "uid": "syndicate-private-study-20260424T1730-e13e21373214@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-24T17:30:00+10:00",
+      "end": "2026-04-24T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260424T1900-dcbe2c3788cc",
+      "uid": "dinner-20260424T1900-dcbe2c3788cc@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-24T19:00:00+10:00",
+      "end": "2026-04-24T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260424T2000-82c92d3cf53b",
+      "uid": "syndicate-private-study-20260424T2000-82c92d3cf53b@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-24T20:00:00+10:00",
+      "end": "2026-04-24T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "breakfast-20260425T0730-c0f7018c688f",
+      "uid": "breakfast-20260425T0730-c0f7018c688f@semba-module1",
+      "title": "Breakfast",
+      "start": "2026-04-25T07:30:00+10:00",
+      "end": "2026-04-25T08:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "breakfast",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "breakfast",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "senior-executive-project-i-20260425T0830-58b9841a77fa",
+      "uid": "senior-executive-project-i-20260425T0830-58b9841a77fa@semba-module1",
+      "title": "Senior Executive Project I",
+      "start": "2026-04-25T08:30:00+10:00",
+      "end": "2026-04-25T10:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "senior-executive-project",
+      "color": "#70003d",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260425T1000-71f6efab4bd1",
+      "uid": "morning-tea-20260425T1000-71f6efab4bd1@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-25T10:00:00+10:00",
+      "end": "2026-04-25T10:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "senior-executive-project-i-20260425T1015-55ca66bb0217",
+      "uid": "senior-executive-project-i-20260425T1015-55ca66bb0217@semba-module1",
+      "title": "Senior Executive Project I",
+      "start": "2026-04-25T10:15:00+10:00",
+      "end": "2026-04-25T11:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "senior-executive-project",
+      "color": "#70003d",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260425T1145-7e6936517350",
+      "uid": "syndicate-private-study-20260425T1145-7e6936517350@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-25T11:45:00+10:00",
+      "end": "2026-04-25T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260425T1300-3ecc9e4c6d2b",
+      "uid": "lunch-20260425T1300-3ecc9e4c6d2b@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-25T13:00:00+10:00",
+      "end": "2026-04-25T13:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "break-20260425T1345-ba4f27726841",
+      "uid": "break-20260425T1345-ba4f27726841@semba-module1",
+      "title": "Break",
+      "start": "2026-04-25T13:45:00+10:00",
+      "end": "2026-04-25T14:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260425T1400-1cbcbad0d318",
+      "uid": "data-driven-decision-making-20260425T1400-1cbcbad0d318@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-25T14:00:00+10:00",
+      "end": "2026-04-25T15:30:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260425T1530-1e656a9b47f5",
+      "uid": "afternoon-tea-20260425T1530-1e656a9b47f5@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-25T15:30:00+10:00",
+      "end": "2026-04-25T15:45:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-20260425T1545-d4c4b899822a",
+      "uid": "data-driven-decision-making-20260425T1545-d4c4b899822a@semba-module1",
+      "title": "Data Driven Decision-Making",
+      "start": "2026-04-25T15:45:00+10:00",
+      "end": "2026-04-25T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "teaching",
+      "type": "teaching",
+      "subtype": "class",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "teaching",
+        "class",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260425T1730-90be84a09e36",
+      "uid": "syndicate-private-study-20260425T1730-90be84a09e36@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-25T17:30:00+10:00",
+      "end": "2026-04-25T19:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "dinner-20260425T1900-d04c0727c1b6",
+      "uid": "dinner-20260425T1900-d04c0727c1b6@semba-module1",
+      "title": "Dinner",
+      "start": "2026-04-25T19:00:00+10:00",
+      "end": "2026-04-25T20:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "dinner",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "dinner",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "syndicate-private-study-20260425T2000-4910eafc8d0b",
+      "uid": "syndicate-private-study-20260425T2000-4910eafc8d0b@semba-module1",
+      "title": "Syndicate/Private Study",
+      "start": "2026-04-25T20:00:00+10:00",
+      "end": "2026-04-25T22:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "study",
+      "type": "study",
+      "subtype": "syndicate-private-study",
+      "subject": null,
+      "colorGroup": "study",
+      "color": "#ffffff",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "study",
+        "syndicate-private-study"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-oral-assessments-20260426T0830-000010c698a4",
+      "uid": "data-driven-decision-making-oral-assessments-20260426T0830-000010c698a4@semba-module1",
+      "title": "Data Driven Decision-Making Oral Assessments",
+      "start": "2026-04-26T08:30:00+10:00",
+      "end": "2026-04-26T10:40:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "oral",
+      "type": "assessment",
+      "subtype": "oral-assessment",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "assessment",
+        "oral-assessment",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "morning-tea-20260426T1040-d0c6d1b62b95",
+      "uid": "morning-tea-20260426T1040-d0c6d1b62b95@semba-module1",
+      "title": "Morning Tea",
+      "start": "2026-04-26T10:40:00+10:00",
+      "end": "2026-04-26T11:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-oral-assessments-20260426T1100-8f2e81eb13a0",
+      "uid": "data-driven-decision-making-oral-assessments-20260426T1100-8f2e81eb13a0@semba-module1",
+      "title": "Data Driven Decision-Making Oral Assessments",
+      "start": "2026-04-26T11:00:00+10:00",
+      "end": "2026-04-26T12:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "oral",
+      "type": "assessment",
+      "subtype": "oral-assessment",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "assessment",
+        "oral-assessment",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "lunch-20260426T1215-76db2ab41167",
+      "uid": "lunch-20260426T1215-76db2ab41167@semba-module1",
+      "title": "Lunch",
+      "start": "2026-04-26T12:15:00+10:00",
+      "end": "2026-04-26T13:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "meal",
+      "type": "meal",
+      "subtype": "lunch",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "meal",
+        "lunch",
+        "logistics"
+      ],
+      "location": "BHP Dining Room",
+      "locationSource": "categoryOverride",
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "data-driven-decision-making-oral-assessments-20260426T1300-4cd2b6cdd2f1",
+      "uid": "data-driven-decision-making-oral-assessments-20260426T1300-4cd2b6cdd2f1@semba-module1",
+      "title": "Data Driven Decision-Making Oral Assessments",
+      "start": "2026-04-26T13:00:00+10:00",
+      "end": "2026-04-26T15:00:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "oral",
+      "type": "assessment",
+      "subtype": "oral-assessment",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "data-driven-decision-making",
+      "color": "#002060",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "assessment",
+        "oral-assessment",
+        "core",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 15
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "afternoon-tea-20260426T1500-b1430398f559",
+      "uid": "afternoon-tea-20260426T1500-b1430398f559@semba-module1",
+      "title": "Afternoon Tea",
+      "start": "2026-04-26T15:00:00+10:00",
+      "end": "2026-04-26T15:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "break",
+      "type": "break",
+      "subtype": "break",
+      "subject": null,
+      "colorGroup": "logistics",
+      "color": "#d9d9d9",
+      "textColor": "#111111",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "break",
+        "logistics"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Source: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": false,
+      "alarms": [],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-data-driven-decision-making-assignment-2-15-minute-interactive-oral-exam-20260426T1700-5d31c5196f74",
+      "uid": "due-data-driven-decision-making-assignment-2-15-minute-interactive-oral-exam-20260426T1700-5d31c5196f74@semba-module1",
+      "title": "Due: Data Driven Decision-Making Assignment 2 - 15 minute interactive oral exam",
+      "start": "2026-04-26T17:00:00+10:00",
+      "end": "2026-04-26T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "data-driven-decision-making",
+        "label": "Data Driven Decision-Making"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "data-driven-decision-making"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-leading-with-influence-for-impact-i-assignment-1-contribution-to-learning-20260426T1700-0a7e355e78b8",
+      "uid": "due-leading-with-influence-for-impact-i-assignment-1-contribution-to-learning-20260426T1700-0a7e355e78b8@semba-module1",
+      "title": "Due: Leading with Influence for Impact I Assignment 1 - Contribution to learning",
+      "start": "2026-04-26T17:00:00+10:00",
+      "end": "2026-04-26T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-senior-executive-project-i-assignment-1-contribution-to-class-learning-20260426T1700-0dce2caeae2c",
+      "uid": "due-senior-executive-project-i-assignment-1-contribution-to-class-learning-20260426T1700-0dce2caeae2c@semba-module1",
+      "title": "Due: Senior Executive Project I Assignment 1 - Contribution to class learning",
+      "start": "2026-04-26T17:00:00+10:00",
+      "end": "2026-04-26T17:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 5:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-leading-with-influence-for-impact-i-assignment-2-individual-assignment-20260426T2100-22383af1469e",
+      "uid": "due-leading-with-influence-for-impact-i-assignment-2-individual-assignment-20260426T2100-22383af1469e@semba-module1",
+      "title": "Due: Leading with Influence for Impact I Assignment 2 - Individual assignment",
+      "start": "2026-04-26T21:00:00+10:00",
+      "end": "2026-04-26T21:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "leading-with-influence",
+        "label": "Leading with Influence for Impact I"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "leading-with-influence"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-managerial-judgement-assignment-1-contribution-to-class-learning-20260426T2100-02cf880dd3d0",
+      "uid": "due-managerial-judgement-assignment-1-contribution-to-class-learning-20260426T2100-02cf880dd3d0@semba-module1",
+      "title": "Due: Managerial Judgement Assignment 1 - Contribution to class learning",
+      "start": "2026-04-26T21:00:00+10:00",
+      "end": "2026-04-26T21:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-managerial-judgement-assignment-2-individual-assignment-20260426T2100-a07dce9b4eaf",
+      "uid": "due-managerial-judgement-assignment-2-individual-assignment-20260426T2100-a07dce9b4eaf@semba-module1",
+      "title": "Due: Managerial Judgement Assignment 2 - Individual assignment",
+      "start": "2026-04-26T21:00:00+10:00",
+      "end": "2026-04-26T21:15:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "managerial-judgement",
+        "label": "Managerial Judgement"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "managerial-judgement"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 9:00pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "due-senior-executive-project-i-assignment-2-individual-reflection-20260426T2359-a39622bc5a1a",
+      "uid": "due-senior-executive-project-i-assignment-2-individual-reflection-20260426T2359-a39622bc5a1a@semba-module1",
+      "title": "Due: Senior Executive Project I Assignment 2 - Individual reflection",
+      "start": "2026-04-26T23:59:00+10:00",
+      "end": "2026-04-27T00:14:00+10:00",
+      "timezone": "Australia/Melbourne",
+      "allDay": false,
+      "category": "deadline",
+      "type": "deadline",
+      "subtype": "submission-deadline",
+      "subject": {
+        "id": "senior-executive-project",
+        "label": "Senior Executive Project I"
+      },
+      "colorGroup": "deadline",
+      "color": "#d64545",
+      "textColor": "#ffffff",
+      "tags": [
+        "module-1",
+        "full-schedule",
+        "deadline",
+        "submission-deadline",
+        "core",
+        "assessment",
+        "senior-executive-project"
+      ],
+      "location": null,
+      "locationSource": null,
+      "description": "Canvas assessment due date: 2026-04-26 11:59pm VIC time.\n\nSource: Modules/Module 1/S27 M1 Timetable.pdf, cross-checked against the Module 1 subject overview and assessment pages.",
+      "transparent": true,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "S27 M1 Timetable.pdf",
+        "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    }
+  ]
+}
