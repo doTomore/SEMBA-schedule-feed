@@ -1,0 +1,14 @@
+{
+  "feedVersion": "20260421T005332Z",
+  "modules": {
+    "module-1": {
+      "scheduleICS": "modules/module-1/schedule.ics",
+      "scheduleJSON": "modules/module-1/schedule.json",
+      "scheduleVersion": "20260421T005332Z",
+      "sha256": "dc42c917a8a900e19ea0e24f003e6530fc072dc707f3d23f1f51d96b01026421",
+      "sourcePDF": "modules/module-1/timetable.pdf"
+    }
+  },
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-21T00:53:32.581412Z"
+}
