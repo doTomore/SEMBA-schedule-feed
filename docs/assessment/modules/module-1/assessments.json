@@ -1,0 +1,303 @@
+{
+  "assessments": [
+    {
+      "assessment": "NexaTech Pilot syndicate assignment",
+      "checklist": [
+        {
+          "id": "confirm-syndicate-roles",
+          "title": "Confirm syndicate roles"
+        },
+        {
+          "id": "analyse-case-data",
+          "title": "Analyse case data"
+        },
+        {
+          "id": "draft-executive-memo",
+          "title": "Draft executive memo"
+        },
+        {
+          "id": "review-exhibits-and-prompt-list",
+          "title": "Review exhibits and prompt list"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-24T08:30:00+10:00",
+      "dueText": "Friday 24 April 2026, 8:30am",
+      "heading": "Data Driven Decision-Making: Assignment 1",
+      "id": "b6a9b3d7-5a42-4b2f-8c8d-0dd9d5cbb1f1",
+      "label": "Assignment 1",
+      "nextAction": "Analyse NexaTech.xlsx and decide whether the evidence supports an $8m global rollout recommendation",
+      "statusText": "In progress",
+      "subject": "Data Driven Decision-Making",
+      "submissionFormat": "Group Word document with AI prompt list, 2-page executive memo, and optional exhibits/graphs",
+      "subtitle": "NexaTech Pilot executive memo and AI prompt log",
+      "type": "Syndicate assignment",
+      "weight": "10% of full module / 20 points"
+    },
+    {
+      "assessment": "15 minute interactive oral exam requirements",
+      "checklist": [
+        {
+          "id": "confirm-allowed-materials",
+          "title": "Confirm allowed materials"
+        },
+        {
+          "id": "prepare-annotated-paper",
+          "title": "Prepare annotated paper"
+        },
+        {
+          "id": "practise-aloud",
+          "title": "Practise aloud"
+        },
+        {
+          "id": "final-readiness-check",
+          "title": "Final readiness check"
+        },
+        {
+          "id": "complete-oral-exam",
+          "title": "Complete oral exam"
+        }
+      ],
+      "dueDate": "2026-04-26T17:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 5:00pm",
+      "heading": "Data Driven Decision-Making: Oral Exam",
+      "id": "91ab6e5a-6ad1-4fb4-9a91-4b82d6a8f2e4",
+      "label": "Oral Exam",
+      "nextAction": "Prepare after syndicate assignment; print/annotate the data and assignment paper, then practise explaining dataset, regression output, and group recommendation",
+      "statusText": "Not started",
+      "subject": "Data Driven Decision-Making",
+      "submissionFormat": "Individual oral exam, up to 15 minutes",
+      "subtitle": "15 minute interactive oral exam",
+      "type": "Individual oral exam",
+      "weight": "15% of entire module"
+    },
+    {
+      "assessment": "Contribution to learning",
+      "checklist": [
+        {
+          "id": "confirm-requirements",
+          "title": "Confirm requirements"
+        },
+        {
+          "id": "prepare-participation-notes",
+          "title": "Prepare participation notes"
+        },
+        {
+          "id": "complete-contribution-activity",
+          "title": "Complete contribution activity"
+        },
+        {
+          "id": "capture-evidence",
+          "title": "Capture evidence"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-26T17:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 5:00pm",
+      "heading": "Leading with Influence for Impact I: Assignment 1",
+      "id": "e6e1d5a8-8b29-4f52-94d2-6b0a58c73c11",
+      "label": "Assignment 1",
+      "nextAction": "Prepare Oxford Union debate notes for both sides of the motion",
+      "statusText": "Not started",
+      "subject": "Leading with Influence for Impact I",
+      "submissionFormat": "Individual class/written contribution, 800 words (+/- 10%)",
+      "subtitle": "Oxford Union debate contribution",
+      "type": "Contribution to learning",
+      "weight": "5%"
+    },
+    {
+      "assessment": "Individual assignment",
+      "checklist": [
+        {
+          "id": "confirm-requirements",
+          "title": "Confirm requirements"
+        },
+        {
+          "id": "build-outline",
+          "title": "Build outline"
+        },
+        {
+          "id": "draft",
+          "title": "Draft"
+        },
+        {
+          "id": "review-and-polish",
+          "title": "Review and polish"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-26T21:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 9:00pm",
+      "heading": "Leading with Influence for Impact I: Assignment 2",
+      "id": "37c0c737-c6b3-46c6-96fb-5a4bc509c6c1",
+      "label": "Assignment 2",
+      "nextAction": "Collect reflected-best-self examples, feedback, and action-plan ideas",
+      "statusText": "Not started",
+      "subject": "Leading with Influence for Impact I",
+      "submissionFormat": "Individual written file upload, 1500 words (+/- 10%)",
+      "subtitle": "Reflected best-self written assignment",
+      "type": "Individual assignment",
+      "weight": "20%"
+    },
+    {
+      "assessment": "Contribution to class learning",
+      "checklist": [
+        {
+          "id": "confirm-requirements",
+          "title": "Confirm requirements"
+        },
+        {
+          "id": "prepare-participation-notes",
+          "title": "Prepare participation notes"
+        },
+        {
+          "id": "complete-contribution-activity",
+          "title": "Complete contribution activity"
+        },
+        {
+          "id": "capture-evidence",
+          "title": "Capture evidence"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-26T17:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 5:00pm",
+      "heading": "Managerial Judgement: Assignment 1",
+      "id": "7a2d8f46-3be2-4e9e-9f0a-2192c5d0af17",
+      "label": "Assignment 1",
+      "nextAction": "Complete online discussion participation in Bringing Your Best Game",
+      "statusText": "Not started",
+      "subject": "Managerial Judgement",
+      "submissionFormat": "Individual class/written contribution, 800 words (+/- 10%)",
+      "subtitle": "Bringing Your Best Game contribution",
+      "type": "Contribution to class learning",
+      "weight": "5%"
+    },
+    {
+      "assessment": "Individual assignment",
+      "checklist": [
+        {
+          "id": "confirm-requirements",
+          "title": "Confirm requirements"
+        },
+        {
+          "id": "build-outline",
+          "title": "Build outline"
+        },
+        {
+          "id": "draft",
+          "title": "Draft"
+        },
+        {
+          "id": "review-and-polish",
+          "title": "Review and polish"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-26T21:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 9:00pm",
+      "heading": "Managerial Judgement: Assignment 2",
+      "id": "d4a99b9a-9c7b-4df6-b6db-d20f3e6b6d55",
+      "label": "Assignment 2",
+      "nextAction": "Choose decision scenario and map relevant biases, judgement concepts, and mitigations",
+      "statusText": "Not started",
+      "subject": "Managerial Judgement",
+      "submissionFormat": "Individual written PDF upload, 2000 words (+/- 10%)",
+      "subtitle": "Written reflection on bias at work",
+      "type": "Individual assignment",
+      "weight": "20%"
+    },
+    {
+      "assessment": "Module 1 individual reflection and contribution to class learning",
+      "checklist": [
+        {
+          "id": "confirm-requirements",
+          "title": "Confirm requirements"
+        },
+        {
+          "id": "build-outline",
+          "title": "Build outline"
+        },
+        {
+          "id": "draft",
+          "title": "Draft"
+        },
+        {
+          "id": "review-and-polish",
+          "title": "Review and polish"
+        },
+        {
+          "id": "submit-complete",
+          "title": "Submit / complete"
+        }
+      ],
+      "dueDate": "2026-04-26T17:00:00+10:00",
+      "dueText": "Sunday 26 April 2026, 5:00pm",
+      "heading": "Senior Executive Project: Assignment 1",
+      "id": "c9f4c67d-67b2-48d8-93f4-0c57d3b9b2f0",
+      "label": "Assignment 1",
+      "nextAction": "Identify a significant work problem, find at least one data point showing its breadth/depth, and explain why you are an ideal leader to solve it",
+      "statusText": "In progress",
+      "subject": "Senior Executive Project",
+      "submissionFormat": "Individual written reflection, 1500 words, plus active contribution to on-campus class discussions",
+      "subtitle": "Module 1 work problem reflection",
+      "type": "Individual reflection and contribution",
+      "weight": "20%"
+    },
+    {
+      "assessment": "Syndicate startup pitch deck inspiration upload",
+      "checklist": [
+        {
+          "id": "step-1",
+          "title": "Find candidate startup pitch decks"
+        },
+        {
+          "id": "step-2",
+          "title": "Agree as a syndicate on the final choice"
+        },
+        {
+          "id": "step-3",
+          "title": "Save the chosen deck in the shared folder"
+        },
+        {
+          "id": "step-4",
+          "title": "Upload to Canvas"
+        },
+        {
+          "id": "step-5",
+          "title": "Confirm upload"
+        }
+      ],
+      "dueDate": "2026-04-25T09:00:00+10:00",
+      "dueText": "Saturday 25 April 2026, 9:00am",
+      "heading": "Senior Executive Project: Syndicate Pitch Deck Upload",
+      "id": "4e4d34ee-8d23-4ad4-9f93-4ce9b77e2d31",
+      "label": "Syndicate Pitch Deck Upload",
+      "nextAction": "Agree on one startup pitch deck that inspires the syndicate, save the file, and upload it to Canvas",
+      "statusText": "Not started",
+      "subject": "Senior Executive Project",
+      "submissionFormat": "One pitch deck per syndicate uploaded into Canvas",
+      "subtitle": "Startup pitch deck inspiration upload",
+      "type": "Syndicate upload",
+      "weight": "Not specified"
+    }
+  ],
+  "moduleKey": "module-1",
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-23T04:59:55Z"
+}

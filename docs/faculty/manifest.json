@@ -1,0 +1,12 @@
+{
+  "feedVersion": "2026-04-23.145955",
+  "modules": {
+    "module-1": {
+      "facultyJSON": "modules/module-1/course-faculty.json",
+      "facultyVersion": "2026-04-23.145955",
+      "sha256": "207c675748b6d2616047c77d69a22cc1954df9f2bd78ca72a7b1f44e9de7f9c5"
+    }
+  },
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-23T04:59:55Z"
+}

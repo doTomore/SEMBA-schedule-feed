@@ -1,0 +1,12 @@
+{
+  "feedVersion": "2026-04-23.145955",
+  "modules": {
+    "module-1": {
+      "assessmentsJSON": "modules/module-1/assessments.json",
+      "assessmentsVersion": "2026-04-23.145955",
+      "sha256": "453e8f310e6ee12efa0d829067e889804fcb188c8e0e5f088e68e3437af9229e"
+    }
+  },
+  "schemaVersion": 1,
+  "updatedAt": "2026-04-23T04:59:55Z"
+}
