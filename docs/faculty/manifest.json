@@ -1,12 +1,12 @@
 {
-  "feedVersion": "2026-04-23.145955",
-  "modules": {
-    "module-1": {
-      "facultyJSON": "modules/module-1/course-faculty.json",
-      "facultyVersion": "2026-04-23.145955",
-      "sha256": "207c675748b6d2616047c77d69a22cc1954df9f2bd78ca72a7b1f44e9de7f9c5"
+  "feedVersion" : "2026-05-03.165333",
+  "modules" : {
+    "module-1" : {
+      "facultyJSON" : "modules/module-1/course-faculty.json",
+      "facultyVersion" : "2026-05-03.165333",
+      "sha256" : "63c8ed2f51ca34d6c2299e09b7fbdd7fe15b2fd82461bd5f98ab5f366f82de9a"
     }
   },
-  "schemaVersion": 1,
-  "updatedAt": "2026-04-23T04:59:55Z"
+  "schemaVersion" : 1,
+  "updatedAt" : "2026-05-03T06:53:35Z"
 }
