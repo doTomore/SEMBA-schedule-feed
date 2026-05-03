@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "name": "SEMBA Module 1 - Full Schedule",
   "timezone": "Australia/Melbourne",
-  "generatedAt": "2026-04-20T23:50:15.606827+00:00",
+  "generatedAt": "2026-05-03T05:29:50Z",
   "source": {
     "primary": "Modules/Module 1/S27 M1 Timetable.pdf",
     "crossCheckedAgainst": [
@@ -4211,6 +4211,490 @@
       "source": {
         "name": "S27 M1 Timetable.pdf",
         "path": "Modules/Module 1/S27 M1 Timetable.pdf",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "arrive-in-hyderabad-isb-check-in-20261003T1500",
+      "uid": "arrive-in-hyderabad-isb-check-in-20261003T1500@semba-module1",
+      "title": "Arrive in Hyderabad / ISB check-in",
+      "start": "2026-10-03T15:00:00+05:30",
+      "end": "2026-10-03T18:00:00+05:30",
+      "timezone": "Asia/Kolkata",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-4-residential-at-indian-school-of-business-hyderabad",
+        "label": "Residential at Indian School of Business - Hyderabad"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-4",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "asia"
+      ],
+      "location": "Indian School of Business, Hyderabad, India",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: students should fly into Hyderabad International Airport and arrive at the Indian School of Business by Saturday, 3 October 2026. Accommodation at ISB is arranged from Saturday, 3 October through check-out on Saturday, 10 October 2026. This 3:00pm-6:00pm block is a temporary check-in placeholder until exact travel timings are published.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "industry-studies-in-asia-begins-20261004T0900",
+      "uid": "industry-studies-in-asia-begins-20261004T0900@semba-module1",
+      "title": "Industry Studies in Asia begins",
+      "start": "2026-10-04T09:00:00+05:30",
+      "end": "2026-10-04T10:00:00+05:30",
+      "timezone": "Asia/Kolkata",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "module-start",
+      "subject": {
+        "id": "module-4-residential-at-indian-school-of-business-hyderabad",
+        "label": "Residential at Indian School of Business - Hyderabad"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-4",
+        "full-schedule",
+        "program",
+        "module-start",
+        "industry-studies",
+        "asia"
+      ],
+      "location": "Indian School of Business, Hyderabad, India",
+      "locationSource": "exactOverride",
+      "description": "Confirmed program guidance: classes will commence early on Sunday, 4 October 2026 at the Indian School of Business. This 9:00am-10:00am block is a temporary placeholder until the detailed class schedule is confirmed.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "industry-studies-in-asia-concludes-with-evening-dinner-20261009T1900",
+      "uid": "industry-studies-in-asia-concludes-with-evening-dinner-20261009T1900@semba-module1",
+      "title": "Industry Studies in Asia concludes with evening dinner",
+      "start": "2026-10-09T19:00:00+05:30",
+      "end": "2026-10-09T22:00:00+05:30",
+      "timezone": "Asia/Kolkata",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "social",
+      "subject": {
+        "id": "module-4-residential-at-indian-school-of-business-hyderabad",
+        "label": "Residential at Indian School of Business - Hyderabad"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-4",
+        "full-schedule",
+        "program",
+        "social",
+        "industry-studies",
+        "asia"
+      ],
+      "location": "Indian School of Business, Hyderabad, India",
+      "locationSource": "exactOverride",
+      "description": "Confirmed program guidance: classes will end with an evening dinner on Friday, 9 October 2026. This 7:00pm-10:00pm block is a temporary placeholder until the exact dinner timing is confirmed.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "isb-check-out-depart-hyderabad-20261010T0800",
+      "uid": "isb-check-out-depart-hyderabad-20261010T0800@semba-module1",
+      "title": "ISB check-out / depart Hyderabad",
+      "start": "2026-10-10T08:00:00+05:30",
+      "end": "2026-10-10T11:00:00+05:30",
+      "timezone": "Asia/Kolkata",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-4-residential-at-indian-school-of-business-hyderabad",
+        "label": "Residential at Indian School of Business - Hyderabad"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-4",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "asia"
+      ],
+      "location": "Indian School of Business, Hyderabad, India",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: students should depart Hyderabad on Saturday, 10 October 2026 unless extending their travel independently. This 8:00am-11:00am block is a temporary placeholder for check-out and departure timing.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "arrive-in-frankfurt-20270313T1500",
+      "uid": "arrive-in-frankfurt-20270313T1500@semba-module1",
+      "title": "Arrive in Frankfurt",
+      "start": "2027-03-13T15:00:00+01:00",
+      "end": "2027-03-13T18:00:00+01:00",
+      "timezone": "Europe/Berlin",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-7-residential-at-whu-otto-beisheim-school-of-management-koblenz",
+        "label": "Residential at WHU - Otto Beisheim School of Management - Koblenz"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-7",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "europe"
+      ],
+      "location": "Frankfurt Airport, Germany",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: students should arrive in Frankfurt Airport on Saturday, 13 March 2027. WHU will arrange accommodation and the first part of the module will be spent in Frankfurt. This 3:00pm-6:00pm block is a temporary arrival placeholder until exact travel timings are published.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "industry-studies-in-germany-begins-20270314T0900",
+      "uid": "industry-studies-in-germany-begins-20270314T0900@semba-module1",
+      "title": "Industry Studies in Germany begins",
+      "start": "2027-03-14T09:00:00+01:00",
+      "end": "2027-03-14T10:00:00+01:00",
+      "timezone": "Europe/Berlin",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "module-start",
+      "subject": {
+        "id": "module-7-residential-at-whu-otto-beisheim-school-of-management-koblenz",
+        "label": "Residential at WHU - Otto Beisheim School of Management - Koblenz"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-7",
+        "full-schedule",
+        "program",
+        "module-start",
+        "industry-studies",
+        "europe"
+      ],
+      "location": "WHU - Otto Beisheim School of Management, Vallendar, Germany",
+      "locationSource": "exactOverride",
+      "description": "Confirmed program guidance: classes begin on Sunday, 14 March 2027 in the morning. This 9:00am-10:00am block is a temporary placeholder until the detailed class schedule is confirmed.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "industry-studies-in-germany-concludes-with-formal-dinner-20270319T1900",
+      "uid": "industry-studies-in-germany-concludes-with-formal-dinner-20270319T1900@semba-module1",
+      "title": "Industry Studies in Germany concludes with formal dinner",
+      "start": "2027-03-19T19:00:00+01:00",
+      "end": "2027-03-19T22:00:00+01:00",
+      "timezone": "Europe/Berlin",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "social",
+      "subject": {
+        "id": "module-7-residential-at-whu-otto-beisheim-school-of-management-koblenz",
+        "label": "Residential at WHU - Otto Beisheim School of Management - Koblenz"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-7",
+        "full-schedule",
+        "program",
+        "social",
+        "industry-studies",
+        "europe"
+      ],
+      "location": "WHU - Otto Beisheim School of Management, Vallendar, Germany",
+      "locationSource": "exactOverride",
+      "description": "Confirmed program guidance: classes conclude on Friday, 19 March 2027 with a formal dinner planned in the evening. This 7:00pm-10:00pm block is a temporary placeholder until the exact dinner timing is confirmed.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "check-out-from-vallendar-transfer-to-frankfurt-depart-20270320T0800",
+      "uid": "check-out-from-vallendar-transfer-to-frankfurt-depart-20270320T0800@semba-module1",
+      "title": "Check out from Vallendar / transfer to Frankfurt / depart",
+      "start": "2027-03-20T08:00:00+01:00",
+      "end": "2027-03-20T11:00:00+01:00",
+      "timezone": "Europe/Berlin",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-7-residential-at-whu-otto-beisheim-school-of-management-koblenz",
+        "label": "Residential at WHU - Otto Beisheim School of Management - Koblenz"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-7",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "europe"
+      ],
+      "location": "Vallendar / Frankfurt Airport, Germany",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: check out from Vallendar on Saturday, 20 March 2027 in the morning and transfer the same day to Frankfurt for departure. This 8:00am-11:00am block is a temporary placeholder for check-out, transfer, and departure timing.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "arrive-in-san-francisco-20270717T1500",
+      "uid": "arrive-in-san-francisco-20270717T1500@semba-module1",
+      "title": "Arrive in San Francisco",
+      "start": "2027-07-17T15:00:00-07:00",
+      "end": "2027-07-17T18:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-9-residential-at-university-of-california-berkeley",
+        "label": "Residential at University of California - Berkeley"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-9",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "usa"
+      ],
+      "location": "San Francisco International Airport, USA",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: students should fly into San Francisco International Airport on Saturday, 17 July 2027. Accommodation is arranged if students fly in and out on the specified dates. This 3:00pm-6:00pm block is a temporary arrival placeholder until exact travel timings are published.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "industry-studies-in-america-begins-20270718T0900",
+      "uid": "industry-studies-in-america-begins-20270718T0900@semba-module1",
+      "title": "Industry Studies in America begins",
+      "start": "2027-07-18T09:00:00-07:00",
+      "end": "2027-07-18T10:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "module-start",
+      "subject": {
+        "id": "module-9-residential-at-university-of-california-berkeley",
+        "label": "Residential at University of California - Berkeley"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-9",
+        "full-schedule",
+        "program",
+        "module-start",
+        "industry-studies",
+        "usa"
+      ],
+      "location": "Haas School of Business, University of California Berkeley, USA",
+      "locationSource": "exactOverride",
+      "description": "Confirmed program guidance: classes begin on Sunday, 18 July 2027 in the morning. This 9:00am-10:00am block is a temporary placeholder until the detailed class schedule is confirmed.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
+        "confidence": "high"
+      }
+    },
+    {
+      "id": "depart-san-francisco-20270724T0800",
+      "uid": "depart-san-francisco-20270724T0800@semba-module1",
+      "title": "Depart San Francisco",
+      "start": "2027-07-24T08:00:00-07:00",
+      "end": "2027-07-24T11:00:00-07:00",
+      "timezone": "America/Los_Angeles",
+      "allDay": false,
+      "category": "special",
+      "type": "program",
+      "subtype": "travel",
+      "subject": {
+        "id": "module-9-residential-at-university-of-california-berkeley",
+        "label": "Residential at University of California - Berkeley"
+      },
+      "colorGroup": "program",
+      "color": "#b8a25a",
+      "textColor": "#111111",
+      "tags": [
+        "module-9",
+        "full-schedule",
+        "program",
+        "travel",
+        "industry-studies",
+        "usa"
+      ],
+      "location": "San Francisco International Airport, USA",
+      "locationSource": "exactOverride",
+      "description": "Confirmed travel guidance: students should depart from San Francisco on Saturday, 24 July 2027. This 8:00am-11:00am block is a temporary placeholder for departure timing.",
+      "transparent": false,
+      "alarms": [
+        {
+          "minutesBefore": 1440
+        },
+        {
+          "minutesBefore": 120
+        }
+      ],
+      "source": {
+        "name": "Industry Studies travel planning email",
+        "path": "Admin correspondence / Industry Studies travel planning details (2026-05-03)",
         "confidence": "high"
       }
     }
